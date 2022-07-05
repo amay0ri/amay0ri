@@ -3,7 +3,7 @@
 # Hi, i'm Matheus! 
 ###   Back-end developer
  
- ##### - Estagio em sistemas no Senac MS, onde atuo principalmente com suporte, requisitos e um pouco de código .NET. 
+ ##### - Atualmente, estagio no SENAC MS prestando suporte nível um aos sistemas e desenvolvendo aplicações de pequeno porte utilizando ASP.NET MVC e Minimal APIs. Apaixonado por tecnologias back-end e, no momento, sempre tentando melhorar na arquitetura da Microsoft. Também gosto de SQL, suporte e gestão de projetos! =) 
  
  ## I usually code in: 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
